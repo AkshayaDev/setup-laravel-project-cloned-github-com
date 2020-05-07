@@ -4,6 +4,7 @@
 git clone linktogithubrepo.com/ projectName
 
 ## 2. cd into your project
+You will need to be inside that project file to enter all of the rest of the commands
 
 ## 3. [Optional]: Checkout the “Start” tag so you have a fresh install of the project (and not the final files)
 git checkout tags/start -b tutorial
