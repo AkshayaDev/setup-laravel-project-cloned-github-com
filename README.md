@@ -17,6 +17,8 @@ npm install
 or if you prefer yarn (as i do)
 yarn
 
+then yarn run dev or production
+
 ## 6. Create a copy of your .env file
 cp .env.example .env
 
